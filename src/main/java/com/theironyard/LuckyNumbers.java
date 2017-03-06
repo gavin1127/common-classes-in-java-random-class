@@ -37,7 +37,7 @@ public class LuckyNumbers {
      * inclusive. IE: -50, -49, ... 99, 100. It will print a message to standard
      * output that looks like this:
      *
-     * Your five lucky numbers are:  1, 2, 3, 4, 5
+     * Your five lucky numbers are: 1, 2, 3, 4, 5
      *
      * Obviously, the numbers printed will be the five numbers generated. Be
      * sure to use the `rand` property as the random number generator.
